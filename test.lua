@@ -1,3 +1,3 @@
-for var=10, 1, -1 do
+while True do
     turtle.turnLeft()
 end
